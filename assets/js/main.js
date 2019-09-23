@@ -1,8 +1,4 @@
-/*
-	Astral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 (function($) {
 
@@ -15,10 +11,10 @@
 
 	// Breakpoints.
 		breakpoints({
-			xlarge:  [ '1281px',  '1680px' ],
-			large:   [ '981px',   '1280px' ],
-			medium:  [ '737px',   '980px'  ],
-			small:   [ '361px',   '736px'  ],
+			xlarge:  [ '1280px',  '1680px' ],
+			large:   [ '980px',   '1280px' ],
+			medium:  [ '736px',   '980px'  ],
+			small:   [ '360px',   '736px'  ],
 			xsmall:  [ null,      '360px'  ]
 		});
 
